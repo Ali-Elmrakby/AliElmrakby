@@ -296,12 +296,13 @@ nav a:hover {
 
 .contact-info {
     margin-top: 40px;
-    text-align: left;
+    text-align: center; /* Center text */
 }
 
 .contact-info p {
     font-size: 1.1em;
     margin-bottom: 10px;
+    color: #cea500; /* Gold color */
 }
 
 /* Footer styles */
